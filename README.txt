@@ -1,4 +1,5 @@
-All in one planner
+                                    All in one planner
+
 This is a simple daily journal that can take a list of things to do, a simple reminder of important activities and a simple expense calculator.
 
 Interface design.
