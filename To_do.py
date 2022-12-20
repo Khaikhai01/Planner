@@ -22,7 +22,7 @@ class todo:
         self.text = Text(self.root, bd=5, height=2, width=30, font='ariel, 10 bold')
         self.text.place(x=20,y=120)
 
-        #===============add tasks=============#
+        #===============add tasks================#
 
         def add():
             content = self.text.get(1.0, END)
